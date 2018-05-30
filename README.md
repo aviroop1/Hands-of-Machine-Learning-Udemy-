@@ -1,2 +1,2 @@
-# Hands-of-Machine-Learning-Udemy-
+# Machine Learning Algorithms
 Practice
